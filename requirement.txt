@@ -1,0 +1,16 @@
+streamlit
+langchain-core
+langchain-community
+transformers
+sentence-transformers
+faiss-cpu
+torch
+llama-cpp-python
+pydantic
+scikit-learn
+tensorflow
+opencv-python
+scikit-image
+Pillow
+PyMuPDF
+numpy
